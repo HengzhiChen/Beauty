@@ -5,3 +5,11 @@ public class myFirstClass{
     public int age;
 }
 ```
+## String
+
+
+
+##Array
+
+
+##ArrayList
